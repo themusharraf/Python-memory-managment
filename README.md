@@ -1,5 +1,5 @@
 # VARIABLES & MEMORY MANAGEMENT
-### [References](google.com)
+### [References](https://github.com/themusharraf/Python-memory-managment/blob/master/references.py)
 ### Garbage Collection()
 ### Dynamic Typing()
 ### Mutable and Immutable()
