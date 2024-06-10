@@ -1,2 +1,8 @@
 # VARIABLES & MEMORY MANAGEMENT
-1-References
+### References
+### Garbage Collection
+### Dynamic Typing
+### Mutable and Immutable
+### Python is operator
+### Python None
+author: Musharraf
