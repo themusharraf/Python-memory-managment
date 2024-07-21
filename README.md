@@ -1,6 +1,6 @@
 # VARIABLES & MEMORY MANAGEMENT Izoh
-### [References](https://github.com/themusharraf/Python-memory-managment/blob/master/references.py)
 ### [Garbage Collection](https://github.com/themusharraf/Python-memory-managment/blob/master/garbage_c.py)
+### [References](https://github.com/themusharraf/Python-memory-managment/blob/master/references.py)
 ### [Dynamic Typing](https://github.com/themusharraf/Python-memory-managment/blob/master/dynamic_type.py)
 ### [Mutable and Immutable](https://github.com/themusharraf/Python-memory-managment/blob/master/mutable_Immutable.py)  
 ### [Python is operator](https://github.com/themusharraf/Python-memory-managment/blob/master/is_operator.py)
@@ -8,7 +8,7 @@
 
 
  
-Ushbu kod misoli Python’da avtomatik xotira boshqaruvi va chiqindilarni tozalash mexanizmini ko’rsatadi. Kodda ctypes moduli yordamida obyektlarning xotira manzillari orqali ular ustida ishlash va chiqindilarni tozalash (garbage collection) yoqilgan va o’chirilgan holatda obyektlar mavjudligini tekshirish amalga oshiriladi.
+[Garbage Collection](https://github.com/themusharraf/Python-memory-managment/blob/master/garbage_c.py) Python’da avtomatik xotira boshqaruvi va chiqindilarni tozalash mexanizmini ko’rsatadi. Kodda ctypes moduli yordamida obyektlarning xotira manzillari orqali ular ustida ishlash va chiqindilarni tozalash (garbage collection) yoqilgan va o’chirilgan holatda obyektlar mavjudligini tekshirish amalga oshiriladi.
 
 ## Funksiyalar
 - `ref_count(address)`: Bu funksiya ko’rsatilgan xotira manzilidagi obyektning foydalanish sonini qaytaradi.
