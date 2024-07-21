@@ -1,5 +1,5 @@
 # VARIABLES & MEMORY MANAGEMENT Izoh
-### [Garbage Collection](https://github.com/themusharraf/Python-memory-managment/blob/master/garbage_c.py)
+### 1. [Garbage Collection](https://github.com/themusharraf/Python-memory-managment/blob/master/garbage_c.py)
 ### [References](https://github.com/themusharraf/Python-memory-managment/blob/master/references.py)
 ### [Dynamic Typing](https://github.com/themusharraf/Python-memory-managment/blob/master/dynamic_type.py)
 ### [Mutable and Immutable](https://github.com/themusharraf/Python-memory-managment/blob/master/mutable_Immutable.py)  
