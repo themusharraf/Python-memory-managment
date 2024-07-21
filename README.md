@@ -1,10 +1,10 @@
 # VARIABLES & MEMORY MANAGEMENT Izoh
 ### 1. [Garbage Collection](https://github.com/themusharraf/Python-memory-managment/blob/master/garbage_c.py)
-### [References](https://github.com/themusharraf/Python-memory-managment/blob/master/references.py)
-### [Dynamic Typing](https://github.com/themusharraf/Python-memory-managment/blob/master/dynamic_type.py)
-### [Mutable and Immutable](https://github.com/themusharraf/Python-memory-managment/blob/master/mutable_Immutable.py)  
-### [Python is operator](https://github.com/themusharraf/Python-memory-managment/blob/master/is_operator.py)
-### [Python None](https://github.com/themusharraf/Python-memory-managment/blob/master/none_not_is.py)
+### 2. [References](https://github.com/themusharraf/Python-memory-managment/blob/master/references.py)
+### 3. [Dynamic Typing](https://github.com/themusharraf/Python-memory-managment/blob/master/dynamic_type.py)
+### 4. [Mutable and Immutable](https://github.com/themusharraf/Python-memory-managment/blob/master/mutable_Immutable.py)  
+### 5. [Python is operator](https://github.com/themusharraf/Python-memory-managment/blob/master/is_operator.py)
+### 6. [Python None](https://github.com/themusharraf/Python-memory-managment/blob/master/none_not_is.py)
 
 
  
